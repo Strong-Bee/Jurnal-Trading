@@ -1,6 +1,6 @@
 @extends('admin/template')
 @section('isi')
-    <div class="app-card alert alert-dismissible shadow-sm mb-4 border-left-decoration" role="alert">
+    {{-- <div class="app-card alert alert-dismissible shadow-sm mb-4 border-left-decoration" role="alert">
         <div class="inner">
             <div class="app-card-body p-3 p-lg-4">
                 <h3 class="mb-3">Welcome, developer!</h3>
@@ -27,7 +27,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="alert"aria-label="Close"></button>
             </div>
         </div>
-    </div>
+    </div> --}}
     {{--  --}}
 
     <div class="row g-4 mb-4">
